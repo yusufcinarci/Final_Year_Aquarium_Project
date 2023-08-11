@@ -58,6 +58,11 @@ Logitech webcam | -----------
 <img src="https://github.com/yusufcinarci/Final_Year_Aquarium_Project/assets/77057546/52fcd612-2734-400c-9698-358766fea605" alt="alt text" width="200" height="400">
 </p>
 
+## SONUÇLAR
+
+İnsanların günümüz dünyasında vakitlerini oldukça verimli kullanması önemlidir. Gün içerisinde birçok yoğun telaşın ve koşuşturmacanın arasında evlerinde hobi olarak besledikleri balıklarının bakımlarını kolaylaştırma amacıyla bu sistem geliştirilmiştir.Sistemin çalışma mantığı, ekran görüntüleri, test görüntüleri ve kullanıcı kontrol durumları yukarıda detaylı olarak verilmiştir. Bu sistemde birçok geliştirme yapılabilir ve sistem hem donanım hem yazılım olarak üst düzey bir görünüme kavuşabilir. 
+
+Bu çalışma ile kullanıcıların akvaryumlarındaki sensörleri ve aktüatörleri uzaktan sade ve basit bir arayüzü aracılığı ile kontrol edebileceği gösterilmiştir. Kullanılan ana kart Raspberry pi model 3B bu çalışmada önemli bir rol oynamış ve sistemin sorunsuz bir şekilde çalışmasını sağlamıştır.
 
 
 
