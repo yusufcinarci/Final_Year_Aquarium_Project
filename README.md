@@ -53,7 +53,6 @@ Logitech webcam | -----------
 
 <p align="center">
 <img src="https://github.com/yusufcinarci/Final_Year_Aquarium_Project/assets/77057546/6187a952-d151-443f-a5e9-06b9a2021dc8" alt="alt text" width="200" height="400">
-<p align="center">
 <img src="https://github.com/yusufcinarci/Final_Year_Aquarium_Project/assets/77057546/52fcd612-2734-400c-9698-358766fea605" alt="alt text" width="200" height="400">
 <img src="https://github.com/yusufcinarci/Final_Year_Aquarium_Project/assets/77057546/2f20fa02-2a32-4f3b-a4af-637dc57e88be" alt="alt text" width="200" height="400">
 <img src="https://github.com/yusufcinarci/Final_Year_Aquarium_Project/assets/77057546/f80bd00f-b866-4a39-9950-1108c2c0c59a" alt="alt text" width="200" height="400">
