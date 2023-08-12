@@ -10,7 +10,7 @@ Bu proje esas olarak Raspberry Pi adlı tek çip kullanan bilgisayar ile bir Akv
 
 ## Sistemin Çalışma Prensibi ve Akış Şeması
 
-<div class='text-justify'>Bu akvaryum izleme sistemi, biri manuel mod ve diğeri otomatik mod olmak üzere iki moddan oluşur. Manuel mod, kullanıcı müdahalelerine ihtiyaç duyar. Örneğin, balığı beslemek için kullanıcının akvaryum kontrol sistem uygulamasını kullanarak Pi'ye manuel olarak komut göndermesi gerekir. Otomatik modda ise Pi, sensöre dayalı akıllı kararlar verebilir. Örneğin, saat 21:00 ise balığı besleyin, çok kirliyse suyu değiştirin, bulanıklık sensör değerini alın vb. Yani yukarıda bahsedilen her şeyi yapmak için bir algoritmaya ihtiyaç vardır. Aşağıda bu sistemde kullanılan ana algoritma akış şeması gösterilmektedir.</div>
+Bu akvaryum izleme sistemi, biri manuel mod ve diğeri otomatik mod olmak üzere iki moddan oluşur. Manuel mod, kullanıcı müdahalelerine ihtiyaç duyar. Örneğin, balığı beslemek için kullanıcının akvaryum kontrol sistem uygulamasını kullanarak Pi'ye manuel olarak komut göndermesi gerekir. Otomatik modda ise Pi, sensöre dayalı akıllı kararlar verebilir. Örneğin, saat 21:00 ise balığı besleyin, çok kirliyse suyu değiştirin, bulanıklık sensör değerini alın vb. Yani yukarıda bahsedilen her şeyi yapmak için bir algoritmaya ihtiyaç vardır. Aşağıda bu sistemde kullanılan ana algoritma akış şeması gösterilmektedir.
 <p align="center">
 <img src="https://github.com/yusufcinarci/Final_Year_Aquarium_Project/assets/77057546/0d3aac95-16d2-4f43-baaf-8ce0eda14306" width="50%">
 </p>
